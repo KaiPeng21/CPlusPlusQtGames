@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>pigletrunleft.png</file>
+        <file>pigletrunright.png</file>
+        <file>tree.jpg</file>
+        <file>stair.png</file>
+        <file>honey.png</file>
+        <file>pigletrunleft_glow.png</file>
+        <file>pigletrunright_glow.png</file>
+        <file>enemy_left.png</file>
+        <file>enemy_right.png</file>
+        <file>mario_theme.mp3</file>
+        <file>over.mp3</file>
+        <file>star.mp3</file>
+        <file>bonus.wav</file>
+        <file>hit_ceil.wav</file>
+        <file>jump.wav</file>
+        <file>kick_enemy.wav</file>
+    </qresource>
+</RCC>

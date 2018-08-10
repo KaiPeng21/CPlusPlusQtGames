@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HELP</title>
+</head>
+<body bgcolor="#F2F5A9">
+
+<div align = "center">
+<h1>Rule</h1>
+</div>
+<p><br>Connect 5 pieces of the same color in horizontal, vertical, or diagonal and you win!</br></p>
+
+<div align = "center">
+<h1>Control</h1>
+</div>
+<p>
+<br>Z - single player</br>
+<br>X - two players</br>
+<br>H - help</br>
+<br>Arrow Keys/ Mouse - move cursor</br>
+<br>Space/ Right Click - place</br>
+<br>Backspace - undo</br>
+<br>Escape - quit/ exit</br>
+</p>
+
+
+</body>
+</html>
